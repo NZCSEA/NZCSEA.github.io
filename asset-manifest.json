@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NZCSEA.github.com/NZCSEA.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/NZCSEA.github.com/NZCSEA.github.io/static/js/main.883bb2a7.chunk.js",
+    "main.js.map": "/NZCSEA.github.com/NZCSEA.github.io/static/js/main.883bb2a7.chunk.js.map",
+    "runtime-main.js": "/NZCSEA.github.com/NZCSEA.github.io/static/js/runtime-main.93a098eb.js",
+    "runtime-main.js.map": "/NZCSEA.github.com/NZCSEA.github.io/static/js/runtime-main.93a098eb.js.map",
+    "static/js/2.b3c08f4d.chunk.js": "/NZCSEA.github.com/NZCSEA.github.io/static/js/2.b3c08f4d.chunk.js",
+    "static/js/2.b3c08f4d.chunk.js.map": "/NZCSEA.github.com/NZCSEA.github.io/static/js/2.b3c08f4d.chunk.js.map",
+    "index.html": "/NZCSEA.github.com/NZCSEA.github.io/index.html",
+    "precache-manifest.8fa299734b8dcb48d2aeb249196b987a.js": "/NZCSEA.github.com/NZCSEA.github.io/precache-manifest.8fa299734b8dcb48d2aeb249196b987a.js",
+    "service-worker.js": "/NZCSEA.github.com/NZCSEA.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/NZCSEA.github.com/NZCSEA.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b3c08f4d.chunk.js.LICENSE.txt": "/NZCSEA.github.com/NZCSEA.github.io/static/js/2.b3c08f4d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/NZCSEA.github.com/NZCSEA.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93a098eb.js",
+    "static/js/2.b3c08f4d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.883bb2a7.chunk.js"
+  ]
+}
